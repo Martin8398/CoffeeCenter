@@ -1,0 +1,14 @@
+<section class="menu-section" *ngFor="let categoria of menuCategorias">
+  <h2 class="section-title">{{ categoria.categoria }}</h2>
+
+  <div class="menu-item" *ngFor="let item of categoria.items">
+    <div class="item-header">
+      <h3 class="item-name">{{ item.nombre }}</h3>
+      <span class="item-price">MXN {{ item.precio }}</span>
+    </div>
+    <p class="item-description">
+      {{ item.descripcion }}
+    </p>
+    <hr />
+  </div>
+</section>

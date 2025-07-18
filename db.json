@@ -1,0 +1,57 @@
+[
+  {
+    "categoria": "Cafés",
+    "items": [
+      {
+        "nombre": "Espresso",
+        "descripcion": "Un café intenso y concentrado servido en una pequeña taza.",
+        "precio": 150
+      },
+      {
+        "nombre": "Café Americano",
+        "descripcion": "Espresso con agua caliente. Suave y ligero.",
+        "precio": 170
+      },
+      {
+        "nombre": "Cappuccino",
+        "descripcion": "Espresso con leche vaporizada y espuma cremosa.",
+        "precio": 180
+      },
+      {
+        "nombre": "Latte",
+        "descripcion": "Café suave con mucha leche caliente y un toque de espuma.",
+        "precio": 190
+      },
+      {
+        "nombre": "Mocha",
+        "descripcion": "Espresso con leche y chocolate. Dulce y reconfortante.",
+        "precio": 200
+      }
+    ]
+  },
+  {
+    "categoria": "Postres",
+    "items": [
+      {
+        "nombre": "Cheesecake de frutilla",
+        "descripcion": "Tarta de queso suave con cobertura de frutilla.",
+        "precio": 250
+      },
+      {
+        "nombre": "Brownie con nuez",
+        "descripcion": "Brownie de chocolate con trozos de nuez y salsa de chocolate.",
+        "precio": 220
+      },
+      {
+        "nombre": "Tiramisú",
+        "descripcion": "Postre italiano con café, queso mascarpone y cacao.",
+        "precio": 240
+      },
+      {
+        "nombre": "Budín de pan",
+        "descripcion": "Postre clásico con pan, pasas y caramelo.",
+        "precio": 180
+      }
+    ]
+  }
+]
